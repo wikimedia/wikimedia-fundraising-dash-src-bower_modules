@@ -28,15 +28,14 @@
   "author": {
     "name": "Leon Gersen"
   },
-  "version": "7.0.7",
-  "_release": "7.0.7",
+  "version": "7.0.9",
+  "_release": "7.0.9",
   "_resolution": {
     "type": "version",
-    "tag": "7.0.7",
-    "commit": "eb0f1d03fd38cb19531cff68c1a0cb00f3610ec7"
+    "tag": "7.0.9",
+    "commit": "c8a70344bebb0b69a09adf12a1e7cc08894f8c3b"
   },
   "_source": "git://github.com/leongersen/noUiSlider.git",
   "_target": "~7.0.7",
-  "_originalSource": "nouislider",
-  "_direct": true
+  "_originalSource": "nouislider"
 }
