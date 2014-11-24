@@ -24,13 +24,5 @@
   ],
   "dependencies": {
     "d3": "~3.4.4"
-  },
-  "gitHead": "6c86c02c944cb6533b4eec7226e942137eafdfbb",
-  "readme": "c3 [![Build Status](https://travis-ci.org/masayuki0812/c3.png?branch=master)](https://travis-ci.org/masayuki0812/c3)\n==\n\nc3 is a D3-based reusable chart library that enables deeper integration of charts into web applications.\n\nMore information is here: [http://c3js.org](http://c3js.org/)\n\n## Tutorial and Examples\n\n+ [Getting Started](http://c3js.org/gettingstarted.html)\n+ [Examples](http://c3js.org/examples.html)\n\nAnother samples are included in this repository:\n+ [https://github.com/masayuki0812/c3/tree/master/htdocs/samples](https://github.com/masayuki0812/c3/tree/master/htdocs/samples)\n\nAnd you can run these samples as:\n```\n$ cd c3/htdocs\n$ python -m SimpleHTTPServer 8080\n```\n\n## Forum\nNow you can ask anything in this forum:\n+ [https://groups.google.com/forum/#!forum/c3js](https://groups.google.com/forum/#!forum/c3js)\n\n## Playground\nPlease fork this fiddle:\n+ [http://jsfiddle.net/masayuki0812/7kYJu/](http://jsfiddle.net/masayuki0812/7kYJu/)\n\n## License\nMIT\n",
-  "readmeFilename": "README.md",
-  "_id": "c3@0.3.0",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/masayuki0812/c3.git"
   }
 }
