@@ -18,8 +18,7 @@
     "tag": "v1.2.1",
     "commit": "7ae09f41e1293f21ffbb9d233e9daed52629885b"
   },
-  "_source": "git://github.com/bernii/gauge.js.git",
-  "_target": "~1.2.1",
-  "_originalSource": "gauge.js",
-  "_direct": true
+  "_source": "https://github.com/bernii/gauge.js.git",
+  "_target": "1.2.1",
+  "_originalSource": "gauge.js"
 }

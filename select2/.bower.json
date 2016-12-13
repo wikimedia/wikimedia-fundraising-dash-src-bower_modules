@@ -18,8 +18,7 @@
     "tag": "3.5.2",
     "commit": "0a7ed096f05155bf2a901cf289602cb3aef2f651"
   },
-  "_source": "git://github.com/ivaynberg/select2.git",
-  "_target": "~3.5.2",
-  "_originalSource": "select2",
-  "_direct": true
+  "_source": "https://github.com/ivaynberg/select2.git",
+  "_target": "3.5.2",
+  "_originalSource": "select2"
 }

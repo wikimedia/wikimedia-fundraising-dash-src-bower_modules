@@ -28,7 +28,7 @@
     "tag": "v1.1.0-pre",
     "commit": "95480c0e83fe7baf388f5cff66177951e72b8fcc"
   },
-  "_source": "git://github.com/SteveSanderson/knockout-projections.git",
-  "_target": "~1.1.0-pre",
+  "_source": "https://github.com/SteveSanderson/knockout-projections.git",
+  "_target": "1.1.0-pre",
   "_originalSource": "knockout-projections"
 }

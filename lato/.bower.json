@@ -47,7 +47,7 @@
     "tag": "v0.2.1",
     "commit": "5a94782343b65f6ed2f26860d7fa822ad72d0595"
   },
-  "_source": "git://github.com/mrkelly/lato.git",
-  "_target": "~0.2.1",
+  "_source": "https://github.com/mrkelly/lato.git",
+  "_target": "0.2.1",
   "_originalSource": "lato"
 }
